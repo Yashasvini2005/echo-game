@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Share+Tech+Mono&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #07090c;
+}
+
+:root {
+  --accent: #c8a96e;
+  --ink: #b0a898;
+  --dim: #3a4a58;
+  --panel: rgba(10, 14, 22, 0.88);
+  --serif: 'Libre Baskerville', Georgia, serif;
+  --mono: 'Share Tech Mono', monospace;
+}
