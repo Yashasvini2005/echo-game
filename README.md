@@ -31,6 +31,3 @@ Most changes don't require touching any component:
 | Typing speed                         | `src/hooks/useTypewriter.js`               |
 | Screen layout or styling             | `src/screens/`                             |
 
-## License
-
-MIT — feel free to fork and build on it.
